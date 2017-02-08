@@ -1,5 +1,5 @@
 
-# IOS Codestile Guides
+# IOS Codestyle Guides
 
 [Swift](Swift.md)
 
