@@ -1,6 +1,6 @@
 # NYTimes Objective-C Style Guide 
 
-[Source link]([https://github.com/NYTimes/objective-c-style-guide/blob/master/README.md])
+[Source_link](https://github.com/NYTimes/objective-c-style-guide/blob/master/README.md)
 
 This style guide outlines the coding conventions of the iOS teams at The New York Times. We welcome your feedback in [issues](https://github.com/NYTimes/objective-c-style-guide/issues) and [pull requests](https://github.com/NYTimes/objective-c-style-guide/pulls).
 
